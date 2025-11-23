@@ -1,1 +1,3 @@
-# whitedent_awd
+# Blizzard AWD
+These are configs for my Siboor Trident AWD - WIP
+
